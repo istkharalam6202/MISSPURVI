@@ -1,4 +1,4 @@
-.import random
+import random
 from pyrogram import Client
 from pyrogram.types import Message
 from pyrogram import filters
